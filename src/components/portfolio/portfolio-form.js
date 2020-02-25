@@ -71,7 +71,7 @@ export default class PortfolioForm extends Component {
         id: id,
         name: name || "",
         description: description || "",
-        category: category || "eCommerce",
+        category: category || "React",
         position: position || "",
         url: url || "",
         editMode: true,
